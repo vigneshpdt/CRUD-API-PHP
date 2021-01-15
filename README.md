@@ -1,3 +1,9 @@
 # crudapi
 
-![alt text](https://github.com/vigneshpdt/crudapi/new/main/screenshots/createAPI.png)
+Create API : 
+
+![Create API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/createAPI.png)
+
+Table : 
+
+![Create API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/createAPI-table.png)
