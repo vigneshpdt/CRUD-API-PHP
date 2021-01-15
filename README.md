@@ -23,3 +23,11 @@ Read API :
 Table :
 
 ![Create API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/readAPI-table.png)
+
+Delete API : 
+
+![Create API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/deleteAPI.png)
+
+Table :
+
+![Create API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/deleteAPI-table.png)
