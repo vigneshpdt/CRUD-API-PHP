@@ -10,24 +10,24 @@ Table :
 
 Update API : 
 
-![Create API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/updateAPI.png)
+![Update API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/updateAPI.png)
 
 Table :
 
-![Create API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/updateAPI-table.png)
+![Update API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/updateAPI-table.png)
 
 Read API : 
 
-![Create API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/readAPI.png)
+![Read API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/readAPI.png)
 
 Table :
 
-![Create API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/readAPI-table.png)
+![Read API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/readAPI-table.png)
 
 Delete API : 
 
-![Create API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/deleteAPI.png)
+![Delete API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/deleteAPI.png)
 
 Table :
 
-![Create API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/deleteAPI-table.png)
+![Delete API Postman](https://github.com/vigneshpdt/crudapi/blob/main/screenshots/deleteAPI-table.png)
